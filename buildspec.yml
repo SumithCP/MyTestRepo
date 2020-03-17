@@ -3,4 +3,5 @@ phases:
   build:
     commands:
       - echo "test build"
+      - exit 2
 
