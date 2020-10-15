@@ -2,4 +2,4 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo "test build1"
+      - echo "test build2"
